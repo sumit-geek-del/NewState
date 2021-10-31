@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/NewState/static/css/main.4c457900.chunk.css",
-    "main.js": "/NewState/static/js/main.b3e48c78.chunk.js",
-    "main.js.map": "/NewState/static/js/main.b3e48c78.chunk.js.map",
-    "runtime-main.js": "/NewState/static/js/runtime-main.ff165588.js",
-    "runtime-main.js.map": "/NewState/static/js/runtime-main.ff165588.js.map",
-    "static/js/2.97c47a65.chunk.js": "/NewState/static/js/2.97c47a65.chunk.js",
-    "static/js/2.97c47a65.chunk.js.map": "/NewState/static/js/2.97c47a65.chunk.js.map",
-    "static/js/3.7e616988.chunk.js": "/NewState/static/js/3.7e616988.chunk.js",
-    "static/js/3.7e616988.chunk.js.map": "/NewState/static/js/3.7e616988.chunk.js.map",
+    "main.js": "/NewState/static/js/main.e906b705.chunk.js",
+    "main.js.map": "/NewState/static/js/main.e906b705.chunk.js.map",
+    "runtime-main.js": "/NewState/static/js/runtime-main.65693dbc.js",
+    "runtime-main.js.map": "/NewState/static/js/runtime-main.65693dbc.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/NewState/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.9b6ace6a.chunk.js": "/NewState/static/js/2.9b6ace6a.chunk.js",
+    "static/js/2.9b6ace6a.chunk.js.map": "/NewState/static/js/2.9b6ace6a.chunk.js.map",
+    "static/js/3.52d2f493.chunk.js": "/NewState/static/js/3.52d2f493.chunk.js",
+    "static/js/3.52d2f493.chunk.js.map": "/NewState/static/js/3.52d2f493.chunk.js.map",
     "index.html": "/NewState/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/NewState/static/css/2.ae9e5f60.chunk.css.map",
     "static/css/main.4c457900.chunk.css.map": "/NewState/static/css/main.4c457900.chunk.css.map",
-    "static/js/2.97c47a65.chunk.js.LICENSE.txt": "/NewState/static/js/2.97c47a65.chunk.js.LICENSE.txt",
+    "static/js/2.9b6ace6a.chunk.js.LICENSE.txt": "/NewState/static/js/2.9b6ace6a.chunk.js.LICENSE.txt",
     "static/media/bgmi.1f40fff8.webp": "/NewState/static/media/bgmi.1f40fff8.webp",
     "static/media/chicken.4a7f7cca.png": "/NewState/static/media/chicken.4a7f7cca.png",
     "static/media/content.b3d7a0a3.jpg": "/NewState/static/media/content.b3d7a0a3.jpg",
@@ -27,9 +29,10 @@
     "static/media/wallet.b58e73d2.png": "/NewState/static/media/wallet.b58e73d2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff165588.js",
-    "static/js/2.97c47a65.chunk.js",
+    "static/js/runtime-main.65693dbc.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.9b6ace6a.chunk.js",
     "static/css/main.4c457900.chunk.css",
-    "static/js/main.b3e48c78.chunk.js"
+    "static/js/main.e906b705.chunk.js"
   ]
 }
